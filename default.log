@@ -1,0 +1,3 @@
+2025-02-15 22:06:29,940 - INFO - Loading csv file: /home/krishagni/Downloads/generate_SRcode/MMGE-MJFF-PPMI-BIO_output.csv
+2025-02-15 22:06:29,961 - INFO - CSV loaded successfully with 1232 rows and 30 columns.
+2025-02-15 22:06:30,337 - INFO - Data saved successfully to: /home/krishagni/Downloads/generate_SRcode/sr_with_code.csv
