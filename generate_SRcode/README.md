@@ -27,19 +27,23 @@ A configuration file (config.ini), which must include:
 ### Usage Instructions
 1. Install Dependencies
 ```python
-pip install pandas
+pip3 install pandas
 ```
 
 2. Configure config.ini
 Example structure:
 
+```python
 [SETTINGS]
 file_path = path/to/input.csv
 output_file = path/to/output.csv
+```
 
 4. Run the Script
+```python
 python3 generate_SRcode.py
+```
 
-4. Check Output
+5. Check Output
 - The script generates an output CSV with an auto-populated "Code" column for specimen requirements.
 - A log file (logfile.log) is created to track execution.
