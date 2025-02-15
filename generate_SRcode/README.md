@@ -13,5 +13,5 @@ The config file need below inputs:
 2. The path of out csv file.
 
 Future Plan:
-1. It should be possible to handle file with input from multiple Collection Protocol.
+1. It should be possible to handle a input with multiple Collection Protocol.
 2. It should be possible to auto-populate parent code
