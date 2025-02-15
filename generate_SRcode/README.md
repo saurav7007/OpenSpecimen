@@ -11,3 +11,7 @@ The reqirement code is generated based on below logic:
 The config file need below inputs:
 1. The path of input csv file
 2. The path of out csv file.
+
+Future Plan:
+1. It should be possible to handle file with input from multiple Collection Protocol.
+2. It should be possible to auto-populate parent code
