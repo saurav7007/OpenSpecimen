@@ -4,7 +4,7 @@
 
 generate_SRcode is a Python script that automatically generates Specimen Requirement (SR) codes for a given CSV file of specimen requirements. The generated codes help in uniquely identifying specimens within different events of a collection protocol.
 
-# Logic for SR Code Generation
+## Logic for SR Code Generation
 
 # Initialize Mapping with the First Event:
 - Read the first event and sequentially generate SR codes for each specimen.
