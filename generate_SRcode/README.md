@@ -13,9 +13,9 @@ Additionally, the script auto-population of parent SR codes based on specimen hi
 - The code is stored in a key-value format, where the key is derived as Key = (Lineage + Type + Initial Quantity + Collection Container)
 
 ### Process Subsequent Events and Update Mapping:
-- If a new SR is found in a later event, it updated mapping with new SR.
+- If a new SR is found in a later event, mapping is updated with new SR.
 - If an existing SR is repeated multiple times in later events, a new sequence is generated using the formula:
-Existing Sequence + (n) [where n is the repetition count in the new event]
+Max Sequence + (n) [where n is the repetition count in the new event]
 
 ### Configuration File (config.ini)
 A configuration file (config.ini), which must include:
