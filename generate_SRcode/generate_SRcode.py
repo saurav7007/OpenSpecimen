@@ -20,8 +20,11 @@ def load_config(config_file="config.ini"):
 
 def load_csv(file_path):
     """Load the Excel file and return a DataFrame."""
+
     logging.info(f"Loading csv file: {file_path}")
+
     data = pd.read_csv(file_path, dtype=str, low_memory=True, quotechar='"', escapechar='\\').fillna('')
+
     logging.info(f"CSV loaded successfully with {len(data)} rows and {len(data.columns)} columns.")
     return data
 
@@ -117,6 +120,18 @@ def assign_sr_code(spmn_req, code_map):
 
     return spmn_req
 
+def asign_parent_code(spmn_req):
+    """Populte requirment code of the parent specimen to the child row."""
+
+    # Create a mapping of Unique UID to Code
+    print(spmn_req)
+    uid_to_code = spmn_req.set_index('Unique ID')['Code']
+    print(uid_to_code)
+
+    # Populate Parent Code using Parent UID
+    spmn_req['Parent Code'] = spmn_req['Parent UID'].map(uid_to_code)
+
+    return spmn_req
 
 def save_to_csv(req_with_code):
     """Save the DataFrame to an csv."""
@@ -139,9 +154,11 @@ if __name__ == "__main__":
 
         mapping = req_code_map(spmn_req)
 
-        sr_with_code = assign_sr_code(spmn_req, mapping)
+        spmn_req = assign_sr_code(spmn_req, mapping)
 
-        save_to_csv(sr_with_code)
+        spmn_req = asign_parent_code(spmn_req)
+
+        save_to_csv(spmn_req)
 
     except Exception as err:
         logging.error(f"Encountered an error: {err}")
