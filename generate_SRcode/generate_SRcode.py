@@ -120,7 +120,7 @@ def assign_sr_code(spmn_req, code_map):
 
     return spmn_req
 
-def asign_parent_code(spmn_req):
+def assign_parent_code(spmn_req):
     """Populte requirment code of the parent specimen to the child row."""
 
     # Create a mapping of Unique UID to Code
@@ -156,7 +156,7 @@ if __name__ == "__main__":
 
         spmn_req = assign_sr_code(spmn_req, mapping)
 
-        spmn_req = asign_parent_code(spmn_req)
+        spmn_req = assign_parent_code(spmn_req)
 
         save_to_csv(spmn_req)
 
