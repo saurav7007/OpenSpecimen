@@ -1,0 +1,23 @@
+2025-02-17 15:59:52,467 - INFO - Loading csv file: /home/krishagni/Downloads/extract_SR/test.csv
+2025-02-17 15:59:52,491 - INFO - CSV loaded successfully with 3 rows and 3 columns.
+2025-02-17 15:59:52,495 - DEBUG - Starting new HTTPS connection (1): demo.openspecimen.org:443
+2025-02-17 15:59:53,910 - DEBUG - https://demo.openspecimen.org:443 "POST /rest/ng/sessions HTTP/1.1" 200 None
+2025-02-17 15:59:53,912 - INFO - Token obtained successfully!
+2025-02-17 15:59:53,914 - DEBUG - Starting new HTTPS connection (1): demo.openspecimen.org:443
+2025-02-17 15:59:55,093 - DEBUG - https://demo.openspecimen.org:443 "POST /rest/ng/export-jobs HTTP/1.1" 200 None
+2025-02-17 15:59:55,127 - INFO - Export Job ID extracted successfully for SS_API_TESTING.
+2025-02-17 15:59:55,128 - DEBUG - Starting new HTTPS connection (1): demo.openspecimen.org:443
+2025-02-17 15:59:56,189 - DEBUG - https://demo.openspecimen.org:443 "GET /rest/ng/export-jobs/2793/output HTTP/1.1" 200 640
+2025-02-17 15:59:56,191 - INFO - Download specimen requirement successfully for SS_API_TESTING
+2025-02-17 15:59:56,193 - DEBUG - Starting new HTTPS connection (1): demo.openspecimen.org:443
+2025-02-17 15:59:57,623 - DEBUG - https://demo.openspecimen.org:443 "POST /rest/ng/export-jobs HTTP/1.1" 200 None
+2025-02-17 15:59:57,625 - INFO - Export Job ID extracted successfully for ABLE study .
+2025-02-17 15:59:57,626 - DEBUG - Starting new HTTPS connection (1): demo.openspecimen.org:443
+2025-02-17 15:59:58,574 - DEBUG - https://demo.openspecimen.org:443 "GET /rest/ng/export-jobs/2794/output HTTP/1.1" 200 2447
+2025-02-17 15:59:58,576 - INFO - Download specimen requirement successfully for ABLE study 
+2025-02-17 15:59:58,578 - DEBUG - Starting new HTTPS connection (1): demo.openspecimen.org:443
+2025-02-17 15:59:59,879 - DEBUG - https://demo.openspecimen.org:443 "POST /rest/ng/export-jobs HTTP/1.1" 200 None
+2025-02-17 15:59:59,881 - INFO - Export Job ID extracted successfully for SS_Specimen_Centric_CP.
+2025-02-17 15:59:59,882 - DEBUG - Starting new HTTPS connection (1): demo.openspecimen.org:443
+2025-02-17 16:00:00,783 - DEBUG - https://demo.openspecimen.org:443 "GET /rest/ng/export-jobs/2795/output HTTP/1.1" 200 600
+2025-02-17 16:00:00,785 - INFO - Download specimen requirement successfully for SS_Specimen_Centric_CP
