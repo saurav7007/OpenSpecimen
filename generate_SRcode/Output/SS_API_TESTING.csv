@@ -1,0 +1,11 @@
+Identifier,CP Short Title,Event Label,Parent Code,Name,Code,Lineage,Specimen Class,Specimen Type,Anatomic Site,Laterality,Pathology,Storage Type,Initial Quantity,Concentration,Quantity Unit,Concentration Unit,Collector#Email Address,Collection Container,Collection Procedure,Receiver#Email Address,Label Format,Label Auto Print Mode,Label Print Copies,Pre-barcoded Tube,Sort Order,Default Custom Field Values,Activity Status,Parent UID,Unique ID
+58529,SS_API_TESTING,Collection,,,1,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,,,ml,cells/ mL,,Not Specified,Not Specified,,,,,no,,,Active,,sr_58529
+58530,SS_API_TESTING,Collection,1,,2,Derived,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Virtual,,,ml,,,Not Specified,Not Specified,,,,,no,,,Active,sr_58529,sr_58530
+58533,SS_API_TESTING,Collection,2,,3,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,1.000000,,ml,,,Not Specified,Not Specified,,,,,no,,,Active,sr_58530,sr_58533
+58534,SS_API_TESTING,Collection,2,,4,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,1.000000,,ml,,,Not Specified,Not Specified,,,,,no,,,Active,sr_58530,sr_58534
+58535,SS_API_TESTING,Collection,2,,5,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,1.000000,,ml,,,Not Specified,Not Specified,,,,,no,,,Active,sr_58530,sr_58535
+58536,SS_API_TESTING,Collection,2,,6,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,1.000000,,ml,,,Not Specified,Not Specified,,,,,no,,,Active,sr_58530,sr_58536
+58537,SS_API_TESTING,Collection,2,,7,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,1.000000,,ml,,,Not Specified,Not Specified,,,,,no,,,Active,sr_58530,sr_58537
+58532,SS_API_TESTING,Collection,1,,8,Derived,Fluid,Serum,Not Specified,Not Specified,Not Specified,Virtual,,,ml,,,Not Specified,Not Specified,,,,,no,,,Active,sr_58529,sr_58532
+58538,SS_API_TESTING,Collection,8,,9,Aliquot,Fluid,Serum,Not Specified,Not Specified,Not Specified,Manual,5.000000,,ml,,,Not Specified,Not Specified,,,,,no,,,Active,sr_58532,sr_58538
+58539,SS_API_TESTING,Collection,8,,10,Aliquot,Fluid,Serum,Not Specified,Not Specified,Not Specified,Manual,5.000000,,ml,,,Not Specified,Not Specified,,,,,no,,,Active,sr_58532,sr_58539

@@ -1,0 +1,147 @@
+Identifier,CP Short Title,Event Label,Parent Code,Name,Code,Lineage,Specimen Class,Specimen Type,Anatomic Site,Laterality,Pathology,Storage Type,Initial Quantity,Concentration,Quantity Unit,Concentration Unit,Collector#Email Address,Collection Container,Collection Procedure,Receiver#Email Address,Label Format,Label Auto Print Mode,Label Print Copies,Pre-barcoded Tube,Sort Order,Default Custom Field Values,Activity Status,Parent UID,Unique ID
+4837,ABLE study,Transplant,,,1,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,10.000000,,ml,cells/ mL,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,,sr_4837
+4838,ABLE study,Transplant,1,,2,Derived,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Virtual,3.000000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4837,sr_4838
+4839,ABLE study,Transplant,2,,3,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4838,sr_4839
+4840,ABLE study,Transplant,2,,4,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4838,sr_4840
+4841,ABLE study,Transplant,2,,5,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4838,sr_4841
+4842,ABLE study,Transplant,2,,6,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4838,sr_4842
+4843,ABLE study,Transplant,2,,7,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4838,sr_4843
+4844,ABLE study,Transplant,2,,8,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4838,sr_4844
+4845,ABLE study,Transplant,1,,9,Derived,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Virtual,10000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4837,sr_4845
+4846,ABLE study,Transplant,9,,10,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4845,sr_4846
+4847,ABLE study,Transplant,9,,11,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4845,sr_4847
+4848,ABLE study,Transplant,9,,12,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4845,sr_4848
+4849,ABLE study,Transplant,9,,13,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4845,sr_4849
+4850,ABLE study,Transplant,9,,14,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,sr_4845,sr_4850
+4852,ABLE study,Transplant,,,15,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,8.000000,,ml,cells/ mL,,Heparin Vacutainer,Venipuncture,,,,,no,,,Active,,sr_4852
+4853,ABLE study,Transplant,15,,16,Derived,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Virtual,3.000000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4852,sr_4853
+4854,ABLE study,Transplant,16,,17,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4853,sr_4854
+4855,ABLE study,Transplant,16,,18,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4853,sr_4855
+4856,ABLE study,Transplant,16,,19,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4853,sr_4856
+4857,ABLE study,Transplant,16,,20,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4853,sr_4857
+4858,ABLE study,Transplant,16,,21,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4853,sr_4858
+4859,ABLE study,Transplant,16,,22,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,6,,Active,sr_4853,sr_4859
+4860,ABLE study,Transplant,15,,23,Derived,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Virtual,10000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4852,sr_4860
+4861,ABLE study,Transplant,23,,24,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4860,sr_4861
+4862,ABLE study,Transplant,23,,25,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4860,sr_4862
+4863,ABLE study,Transplant,23,,26,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4860,sr_4863
+4864,ABLE study,Transplant,23,,27,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4860,sr_4864
+4865,ABLE study,Transplant,23,,28,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4860,sr_4865
+4866,ABLE study,Transplant,,,29,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,8.000000,,ml,cells/ mL,,Streck tube,Venipuncture,,,,,no,,,Active,,sr_4866
+4867,ABLE study,Donor,,,1,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,10.000000,,ml,cells/ mL,,EDTA Vacutainer,Venipuncture,,,,,no,,,Active,,sr_4867
+4868,ABLE study,3 Months,,,1,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,10.000000,,ml,cells/ mL,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,,sr_4868
+4869,ABLE study,3 Months,1,,2,Derived,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Virtual,3.000000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4868,sr_4869
+4870,ABLE study,3 Months,2,,3,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4869,sr_4870
+4871,ABLE study,3 Months,2,,4,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4869,sr_4871
+4872,ABLE study,3 Months,2,,5,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4869,sr_4872
+4873,ABLE study,3 Months,2,,6,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4869,sr_4873
+4874,ABLE study,3 Months,2,,7,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4869,sr_4874
+4875,ABLE study,3 Months,2,,8,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,6,,Active,sr_4869,sr_4875
+4876,ABLE study,3 Months,1,,9,Derived,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Virtual,10000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4868,sr_4876
+4877,ABLE study,3 Months,9,,10,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4876,sr_4877
+4878,ABLE study,3 Months,9,,11,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4876,sr_4878
+4879,ABLE study,3 Months,9,,12,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4876,sr_4879
+4880,ABLE study,3 Months,9,,13,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4876,sr_4880
+4881,ABLE study,3 Months,9,,14,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4876,sr_4881
+4882,ABLE study,3 Months,,,15,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,8.000000,,ml,cells/ mL,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,,sr_4882
+4883,ABLE study,3 Months,15,,16,Derived,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Virtual,3.000000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4882,sr_4883
+4884,ABLE study,3 Months,16,,17,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4883,sr_4884
+4885,ABLE study,3 Months,16,,18,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4883,sr_4885
+4886,ABLE study,3 Months,16,,19,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4883,sr_4886
+4887,ABLE study,3 Months,16,,20,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4883,sr_4887
+4888,ABLE study,3 Months,16,,21,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4883,sr_4888
+4889,ABLE study,3 Months,16,,22,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,6,,Active,sr_4883,sr_4889
+4890,ABLE study,3 Months,15,,23,Derived,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Virtual,10000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4882,sr_4890
+4891,ABLE study,3 Months,23,,24,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4890,sr_4891
+4892,ABLE study,3 Months,23,,25,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4890,sr_4892
+4893,ABLE study,3 Months,23,,26,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4890,sr_4893
+4894,ABLE study,3 Months,23,,27,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4890,sr_4894
+4895,ABLE study,3 Months,23,,28,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4890,sr_4895
+4896,ABLE study,3 Months,,,29,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,8.000000,,ml,cells/ mL,,Streck tube,Venipuncture,,,,,no,3,,Active,,sr_4896
+4897,ABLE study,6 Months,,,1,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,10.000000,,ml,cells/ mL,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,,sr_4897
+4898,ABLE study,6 Months,1,,2,Derived,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Virtual,3.000000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4897,sr_4898
+4899,ABLE study,6 Months,2,,3,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4898,sr_4899
+4900,ABLE study,6 Months,2,,4,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4898,sr_4900
+4901,ABLE study,6 Months,2,,5,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4898,sr_4901
+4902,ABLE study,6 Months,2,,6,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4898,sr_4902
+4903,ABLE study,6 Months,2,,7,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4898,sr_4903
+4904,ABLE study,6 Months,2,,8,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,6,,Active,sr_4898,sr_4904
+4905,ABLE study,6 Months,1,,9,Derived,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Virtual,10000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4897,sr_4905
+4906,ABLE study,6 Months,9,,10,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4905,sr_4906
+4907,ABLE study,6 Months,9,,11,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4905,sr_4907
+4908,ABLE study,6 Months,9,,12,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4905,sr_4908
+4909,ABLE study,6 Months,9,,13,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4905,sr_4909
+4910,ABLE study,6 Months,9,,14,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4905,sr_4910
+4911,ABLE study,6 Months,,,15,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,8.000000,,ml,cells/ mL,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,,sr_4911
+4912,ABLE study,6 Months,15,,16,Derived,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Virtual,3.000000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4911,sr_4912
+4913,ABLE study,6 Months,16,,17,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4912,sr_4913
+4914,ABLE study,6 Months,16,,18,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4912,sr_4914
+4915,ABLE study,6 Months,16,,19,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4912,sr_4915
+4916,ABLE study,6 Months,16,,20,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4912,sr_4916
+4917,ABLE study,6 Months,16,,21,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4912,sr_4917
+4918,ABLE study,6 Months,16,,22,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,6,,Active,sr_4912,sr_4918
+4919,ABLE study,6 Months,15,,23,Derived,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Virtual,10000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4911,sr_4919
+4920,ABLE study,6 Months,23,,24,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4919,sr_4920
+4921,ABLE study,6 Months,23,,25,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4919,sr_4921
+4922,ABLE study,6 Months,23,,26,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4919,sr_4922
+4923,ABLE study,6 Months,23,,27,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4919,sr_4923
+4924,ABLE study,6 Months,23,,28,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4919,sr_4924
+4925,ABLE study,6 Months,,,29,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,8.000000,,ml,cells/ mL,,Streck tube,Venipuncture,,,,,no,3,,Active,,sr_4925
+4926,ABLE study,12 Months,,,1,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,10.000000,,ml,cells/ mL,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,,sr_4926
+4927,ABLE study,12 Months,1,,2,Derived,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Virtual,3.000000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4926,sr_4927
+4928,ABLE study,12 Months,2,,3,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4927,sr_4928
+4929,ABLE study,12 Months,2,,4,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4927,sr_4929
+4930,ABLE study,12 Months,2,,5,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4927,sr_4930
+4931,ABLE study,12 Months,2,,6,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4927,sr_4931
+4932,ABLE study,12 Months,2,,7,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4927,sr_4932
+4933,ABLE study,12 Months,2,,8,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,6,,Active,sr_4927,sr_4933
+4934,ABLE study,12 Months,1,,9,Derived,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Virtual,10000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4926,sr_4934
+4935,ABLE study,12 Months,9,,10,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4934,sr_4935
+4936,ABLE study,12 Months,9,,11,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4934,sr_4936
+4937,ABLE study,12 Months,9,,12,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4934,sr_4937
+4938,ABLE study,12 Months,9,,13,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4934,sr_4938
+4939,ABLE study,12 Months,9,,14,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4934,sr_4939
+4940,ABLE study,12 Months,,,15,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,8.000000,,ml,cells/ mL,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,,sr_4940
+4941,ABLE study,12 Months,15,,16,Derived,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Virtual,3.000000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4940,sr_4941
+4942,ABLE study,12 Months,16,,17,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4941,sr_4942
+4943,ABLE study,12 Months,16,,18,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4941,sr_4943
+4944,ABLE study,12 Months,16,,19,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4941,sr_4944
+4945,ABLE study,12 Months,16,,20,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4941,sr_4945
+4946,ABLE study,12 Months,16,,21,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4941,sr_4946
+4947,ABLE study,12 Months,16,,22,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,6,,Active,sr_4941,sr_4947
+4948,ABLE study,12 Months,15,,23,Derived,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Virtual,10000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4940,sr_4948
+4949,ABLE study,12 Months,23,,24,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4948,sr_4949
+4950,ABLE study,12 Months,23,,25,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4948,sr_4950
+4951,ABLE study,12 Months,23,,26,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4948,sr_4951
+4952,ABLE study,12 Months,23,,27,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4948,sr_4952
+4953,ABLE study,12 Months,23,,28,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4948,sr_4953
+4954,ABLE study,12 Months,,,29,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,8.000000,,ml,cells/ mL,,Streck tube,Venipuncture,,,,,no,3,,Active,,sr_4954
+4955,ABLE study,24 Months,,,1,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,10.000000,,ml,cells/ mL,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,,sr_4955
+4956,ABLE study,24 Months,1,,2,Derived,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Virtual,3.000000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4955,sr_4956
+4957,ABLE study,24 Months,2,,3,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4956,sr_4957
+4958,ABLE study,24 Months,2,,4,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4956,sr_4958
+4959,ABLE study,24 Months,2,,5,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4956,sr_4959
+4960,ABLE study,24 Months,2,,6,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4956,sr_4960
+4961,ABLE study,24 Months,2,,7,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4956,sr_4961
+4962,ABLE study,24 Months,2,,8,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,EDTA Vacutainer,Venipuncture,,,,,no,6,,Active,sr_4956,sr_4962
+4963,ABLE study,24 Months,1,,9,Derived,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Virtual,10000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4955,sr_4963
+4964,ABLE study,24 Months,9,,10,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4963,sr_4964
+4965,ABLE study,24 Months,9,,11,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4963,sr_4965
+4966,ABLE study,24 Months,9,,12,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4963,sr_4966
+4967,ABLE study,24 Months,9,,13,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4963,sr_4967
+4968,ABLE study,24 Months,9,,14,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,EDTA Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4963,sr_4968
+4969,ABLE study,24 Months,,,15,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,8.000000,,ml,cells/ mL,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,,sr_4969
+4970,ABLE study,24 Months,15,,16,Derived,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Virtual,3.000000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4969,sr_4970
+4971,ABLE study,24 Months,16,,17,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4970,sr_4971
+4972,ABLE study,24 Months,16,,18,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4970,sr_4972
+4973,ABLE study,24 Months,16,,19,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4970,sr_4973
+4974,ABLE study,24 Months,16,,20,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4970,sr_4974
+4975,ABLE study,24 Months,16,,21,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4970,sr_4975
+4976,ABLE study,24 Months,16,,22,Aliquot,Fluid,Plasma,Not Specified,Not Specified,Not Specified,Manual,0.500000,,ml,,,Heparin Vacutainer,Venipuncture,,,,,no,6,,Active,sr_4970,sr_4976
+4977,ABLE study,24 Months,15,,23,Derived,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Virtual,10000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4969,sr_4977
+4978,ABLE study,24 Months,23,,24,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,1,,Active,sr_4977,sr_4978
+4979,ABLE study,24 Months,23,,25,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,2,,Active,sr_4977,sr_4979
+4980,ABLE study,24 Months,23,,26,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,3,,Active,sr_4977,sr_4980
+4981,ABLE study,24 Months,23,,27,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,4,,Active,sr_4977,sr_4981
+4982,ABLE study,24 Months,23,,28,Aliquot,Cell,Cryopreserved Cells,Not Specified,Not Specified,Not Specified,Manual,1000000.000000,,cells,cells,,Heparin Vacutainer,Venipuncture,,,,,no,5,,Active,sr_4977,sr_4982
+4983,ABLE study,24 Months,,,29,New,Fluid,Whole Blood,Not Specified,Not Specified,Not Specified,Virtual,8.000000,,ml,cells/ mL,,Streck tube,Venipuncture,,,,,no,3,,Active,,sr_4983
