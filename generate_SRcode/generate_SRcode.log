@@ -1,0 +1,10 @@
+2025-02-20 15:41:19,454 - INFO - Loading csv file: /home/krishagni/Downloads/generate_SRcode/Input/SS_Specimen_Centric_CP.zip
+2025-02-20 15:41:19,509 - INFO - CSV loaded successfully with 6 rows and 30 columns.
+2025-02-20 15:41:19,528 - INFO - Data saved successfully to: /home/krishagni/Downloads/generate_SRcode/Output/SS_Specimen_Centric_CP.csv
+2025-02-20 15:41:19,528 - INFO - Loading csv file: /home/krishagni/Downloads/generate_SRcode/Input/ABLE study .zip
+2025-02-20 15:41:19,534 - INFO - CSV loaded successfully with 146 rows and 30 columns.
+2025-02-20 15:41:19,580 - INFO - Data saved successfully to: /home/krishagni/Downloads/generate_SRcode/Output/ABLE study .csv
+2025-02-20 15:41:19,580 - INFO - Loading csv file: /home/krishagni/Downloads/generate_SRcode/Input/SS_API_TESTING.zip
+2025-02-20 15:41:19,585 - INFO - CSV loaded successfully with 10 rows and 30 columns.
+2025-02-20 15:41:19,592 - INFO - Data saved successfully to: /home/krishagni/Downloads/generate_SRcode/Output/SS_API_TESTING.csv
+2025-02-20 15:41:19,703 - INFO - All Specimen Requirement files merged into /home/krishagni/Downloads/generate_SRcode/Output/0-All_CPs_SR.csv successfully!

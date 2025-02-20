@@ -2,7 +2,9 @@
 
 ## Overview
 
-generate_SRcode is a Python script that automatically generates Specimen Requirement (SR) codes for a given CSV file of specimen requirements. The generated codes help in uniquely identifying specimens within different events of a collection protocol.
+generate_SRcode is a Python script that automatically generates Specimen Requirement (SR) codes for a given CSV file of specimen requirements. 
+
+A folder containing SRs from multiple collection protocols is provided as an input and a output folder is created with auto-generated SRs files for each collection protocol.
 
 Additionally, the script auto-population of parent SR codes based on specimen hierarchy.
 
@@ -10,20 +12,17 @@ Additionally, the script auto-population of parent SR codes based on specimen hi
 
 ### Initialize Mapping with the First Event:
 - Read the first event and sequentially generate SR codes for each specimen.
-- The code is stored in a key-value format, where the key is derived as Key = (Lineage + Type + Initial Quantity + Collection Container)
+- The code is stored in a key-value format, where the key is derived as Key = (Lineage + Type + Collection Container)
 
 ### Process Subsequent Events and Update Mapping:
-- If a new SR is found in a later event, mapping is updated with new SR.
+- If a new SR is found in a later event, it updated mapping with new SR.
 - If an existing SR is repeated multiple times in later events, a new sequence is generated using the formula:
-Max Sequence + (n) [where n is the repetition count in the new event]
+Existing Sequence + (n) [where n is the repetition count in the new event]
 
 ### Configuration File (config.ini)
 A configuration file (config.ini), which must include:
 - Path to the input CSV file.
 - Path to the output CSV file.
-
-### Future Enhancements
-- Support for multiple Collection Protocols in a single input file.
 
 ### Usage Instructions
 1. Install Dependencies
@@ -36,8 +35,8 @@ Example structure:
 
 ```python
 [SETTINGS]
-file_path = path/to/input.csv
-output_file = path/to/output.csv
+folder_path = path/to/input_folder
+output_folder = path/to/output_folder
 ```
 
 4. Run the Script
